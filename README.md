@@ -1,5 +1,9 @@
 # CAIXA DA LANCHONETE
 
+![codigo deu certo](https://github.com/Iaguiar-c/desafio-isabella-aguiar/assets/107942325/f3e25277-4a44-44d1-97e8-7be70d84ee2e)
+![codigo deu certo2](https://github.com/Iaguiar-c/desafio-isabella-aguiar/assets/107942325/7dafd1de-c3cd-44da-921b-597d19f05db9)
+![codigo deu certo3](https://github.com/Iaguiar-c/desafio-isabella-aguiar/assets/107942325/0a6ae8b9-1f5a-4031-96eb-5b934f0aa2ed)
+
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
 Para completar a etapa do desafio você terá que baixar a estrutura do código aqui na Azure, resolver o desafio e entregá-lo no repositório no seu github.
 
